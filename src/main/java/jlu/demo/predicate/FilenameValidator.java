@@ -14,7 +14,7 @@ import java.util.stream.Collectors;
  * @author JLU
  *
  */
-public class FilenameValidator {
+public class FilenameValidator { 
 	
 	
 	public static Predicate<String> isIncluded(String includeExpression) {
